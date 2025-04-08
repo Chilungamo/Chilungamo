@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chilungamo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning web scraping
-- 💞️ I’m looking to collaborate on any data science related projects
-- 📫 You can reach me at limanialbert@gmail.com
+- 👋 Hi, I’m Albert
+- 👀 I’m interested in Accounting Data Analytics
+- 🌱 I’m currently working on use of xBRL custom tags and financial statements comparability.
+- 💞️ I’m looking to collaborate on any accounting data analytics related projects
+- 📫 You can reach me at limanialbert@gmail.com 
 
 <!---
 Chilungamo/Chilungamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
