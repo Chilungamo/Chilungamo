@@ -18,8 +18,8 @@ I'm always excited to collaborate on projects related to:
 - Data-driven auditing and assurance  
 
 ### 📫 Get in Touch
-📧 Email: limanialbert@gmail.com
-🌐 LinkedIn: linkedin.com/in/limanialbert
+- 📧 Email: limanialbert@gmail.com
+- 🌐 LinkedIn: linkedin.com/in/limanialbert
 
 ### 🛠️ Tools & Technologies
 - Python
