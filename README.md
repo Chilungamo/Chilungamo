@@ -1,6 +1,6 @@
 ---
 
-## 👋 Hi there, I'm Albert — also known as *Chilungamo*
+## 👋 Hi there, I'm Albert,
 
 Welcome to my GitHub!
 
