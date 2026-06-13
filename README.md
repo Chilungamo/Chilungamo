@@ -12,7 +12,7 @@ I'm working on a project focused on the **use of xBRL custom tags** to improve *
 
 ### 🤝 Open to Collaborate
 I'm always excited to collaborate on projects related to:
-- Accounting and financial data analysis  
+- Accounting and financial data visualization  
 - ESG and sustainability reporting analytics  
 - xBRL and regulatory tech  
 - Data-driven auditing and assurance  
