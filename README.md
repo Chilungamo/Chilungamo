@@ -8,7 +8,7 @@ Welcome to my GitHub!
 I'm passionate about **Accounting Data Analytics**, with a focus on leveraging data for financial insights, transparency, and informed decision-making.
 
 ### 🌱 Currently Exploring
-I'm working on a project focused on the **use of xBRL custom tags** to improve **financial statement comparability** across companies and taxonomies (GAAP, IFRS).
+I'm working on a projects focused on the **use of xBRL custom tags** to improve **financial statement comparability** across companies and taxonomies (GAAP, IFRS). Understanding Accruals and use of AI in Earnings calls is what I am academically following. I have read interesting articles including;
 
 ### 🤝 Open to Collaborate
 I'm always excited to collaborate on projects related to:
